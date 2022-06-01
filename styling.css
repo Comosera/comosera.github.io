@@ -63,8 +63,6 @@ ul {
   margin-top: 100px;
 }
 .skills {
-  display: inline-block;
-  border: 1px solid red;
   background-color: rgb(209,225,137);
 }
 .radius_div {
