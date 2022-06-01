@@ -1,0 +1,89 @@
+
+* {
+  font-family: "Times New Roman";
+}
+.header_div {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  background-image: url("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png")
+}
+.skills_header {
+  background-image: url("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png")
+}
+.pro_header {
+  background-image: url("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png")
+}
+
+
+
+.self_name {
+  font-size: 40px;
+  text-align: left;
+  font-weight: bold;
+  padding: 0;
+  margin: 0 auto;
+
+}
+
+.desired_position {
+  font-size: 15px;
+  opacity: .5;
+  padding: 0;
+  margin: 0 auto;
+
+}
+
+.radius {
+  margin: 0 auto;
+  padding: 0;
+
+}
+
+ul {
+  font-size: 13px;
+}
+
+.tickerpic {
+  height: 180px;
+  width: 250px;
+}
+
+.c130pic {
+  height: 150px;
+  width: 220px;
+}
+
+.header_div {
+  background-color: white;
+}
+.education_div {
+  background-color: rgb(238,232,170);
+  margin-top: 100px;
+}
+.skills {
+  display: inline-block;
+  width: 260px;
+  height: 200px;
+  border: 1px solid red;
+  background-color: rgb(209,225,137);
+}
+.radius_div {
+  background-color: rgb(173,216,230);
+}
+.ticker_div {
+  background-color: rgb(227,218,201);
+}
+.sbj_div {
+  background-color: rgb(173,216,230);
+}
+.vtol_div {
+  background-color: rgb(227,218,201);
+}
+.rocket_div {
+  background-color: rgb(173,216,230);
+}
+.drones_div {
+  background-color: rgb(227,218,201);
+}
