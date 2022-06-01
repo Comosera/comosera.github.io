@@ -64,8 +64,6 @@ ul {
 }
 .skills {
   display: inline-block;
-  width: 260px;
-  height: 200px;
   border: 1px solid red;
   background-color: rgb(209,225,137);
 }
